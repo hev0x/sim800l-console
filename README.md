@@ -90,4 +90,5 @@ OK
 
 • AT console demonstration:
 
-![Terminal Demo]()
+![Terminal Demo](https://github.com/user-attachments/assets/4e0f4605-eac2-49c8-8ef0-c5d49b6579e7)
+
