@@ -1,5 +1,5 @@
 # ESP32-TTGO-SIM800L Serial Console
-Serial console for executing AT commands with the TTGO ESP32-SIM800L board.
+Serial console for executing AT commands with TTGO ESP32-SIM800L board, code developed with Espressif SDK-IDF.
 
 ---
 
